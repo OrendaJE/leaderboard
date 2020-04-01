@@ -241,8 +241,8 @@
             align-items: center;
     -webkit-box-pack: center;
             justify-content: center;
-    width: 4.8rem;
-    height: 4.8rem;
+    width: 8rem;
+    height: 8rem;
     box-shadow: inset 0px 0px 0px 1px currentColor;
     border-radius: 50%;
     background: var(--lightest);
@@ -307,8 +307,8 @@
             align-items: center;
     -webkit-box-pack: center;
             justify-content: center;
-    width: 3.2rem;
-    height: 3.2rem;
+    width: 5rem;
+    height: 5rem;
     background: var(--lightest);
     color: var(--dark);
     border-radius: 0.4rem;
