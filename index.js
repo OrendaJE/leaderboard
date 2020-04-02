@@ -20,7 +20,7 @@ const team = [
         name: 'Emna',
         handle: 'Emna',
         img: 'https://scontent.ftun2-1.fna.fbcdn.net/v/t1.0-9/s960x960/81521952_2495244274070988_6962355184697606144_o.jpg?_nc_cat=102&_nc_sid=174925&_nc_oc=AQltrhLRhViDIF-prlbIwIsSWZ-mffk7Pkbo1UKe0FpE9ZOd07aLg6WlQVsRtr3Ovz4&_nc_ht=scontent.ftun2-1.fna&_nc_tp=7&oh=93355f5336b83afffc3a9d47bc02ef5c&oe=5EA72706',
-        kudos: 0
+        kudos: 1773
     },
     {
         rank: 4,
@@ -55,8 +55,8 @@ const team = [
         rank: 8,
         name: 'Raslen',
         handle: 'Raslen',
-        img: 'https://scontent.ftun2-1.fna.fbcdn.net/v/t1.0-9/s960x960/82859755_2781573001863734_8940176320151683072_o.jpg?_nc_cat=108&_nc_sid=09cbfe&_nc_oc=AQkt_P9BX5tgFXpew37kMicM3FsJbEIIvwjrHmxNbEthM1Jd5zlS-sR_eTHlMXYXVYE&_nc_ht=scontent.ftun2-1.fna&_nc_tp=7&oh=f75a6be40209a5964d19163067ce905f&oe=5EA99118',
-        kudos: 1481
+        img: 'https://scontent.ftun4-1.fna.fbcdn.net/v/t1.0-9/s960x960/81170242_2738941052793596_3234853081107660800_o.jpg?_nc_cat=109&_nc_sid=7aed08&_nc_oc=AQk1Hrz5aEqZo7gEcrdCacCu-lRlemE31zoXDkIe3cgd7cPwqPuRrHyA9_J7CJ8XFVY&_nc_ht=scontent.ftun4-1.fna&_nc_tp=7&oh=c9b3cc9cca1a752bb212b16db7c1888f&oe=5EA8B569',
+        kudos: 2446
     },
     {
         rank: 9,
